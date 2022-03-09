@@ -5,6 +5,5 @@
 
 cacheUrl: https://running-mj.github.io/testrss/cache.json
 sources:
-  - href: https://rsshub.uneasy.win/nytimes/
-  - href: https://rsshub.uneasy.win/zhihu/daily
+  - href: https://rsshub.uneasy.win/ft/chinese/hotstoryby7day
 
