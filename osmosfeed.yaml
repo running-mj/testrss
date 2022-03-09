@@ -5,7 +5,8 @@
 
 cacheUrl: https://running-mj.github.io/testrss/cache.json
 sources:
-  - href: https://rsshub.rssforever.com/telegram/channel/chigua91
-  - href: https://rsshub.rssforever.com/telegram/channel/bigcrowdev
-  - href: https://rsshub.rssforever.com/telegram/channel/bigcrowdev
+  # - href: https://rsshub.rssforever.com/telegram/channel/chigua91
+  # - href: https://rsshub.rssforever.com/telegram/channel/bigcrowdev
+  # - href: https://rsshub.rssforever.com/telegram/channel/bigcrowdev
+  - href: https://rsshub.rssforever.com/telegram/channel/awsl_channel
 
