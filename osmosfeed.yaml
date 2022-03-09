@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
- cacheUrl: https://running-mj.github.io/testrss/cache.json
+cacheUrl: https://running-mj.github.io/testrss/cache.json
 sources:
   - href: https://www.zhihu.com/rss
 
