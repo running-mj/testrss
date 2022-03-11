@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://running-mj.github.io/testrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-10T09:53:35.793Z</updated>
+    <updated>2022-03-11T07:11:06.471Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://running-mj.github.io/testrss/index.html"/>
     <link rel="self" href="https://running-mj.github.io/testrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🖼 #宁宁子同学 https://weibo.com/2005157500/Ljap9D4hh]]></title>
+        <id>https://t.me/awsl_channel/39572</id>
+        <link href="https://t.me/awsl_channel/39572"/>
+        <updated>2022-03-11T07:11:00.000Z</updated>
+        <summary type="html"><![CDATA[#宁宁子同学 https://weibo.com/2005157500/Ljap9D4hh]]></summary>
+        <author>
+            <name>Awsl - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🖼 #萌芽儿o0 https://weibo.com/6655450792/Lj9V7a679]]></title>
+        <id>https://t.me/awsl_channel/39571</id>
+        <link href="https://t.me/awsl_channel/39571"/>
+        <updated>2022-03-11T07:09:46.000Z</updated>
+        <summary type="html"><![CDATA[#萌芽儿o0 https://weibo.com/6655450792/Lj9V7a679]]></summary>
+        <author>
+            <name>Awsl - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🖼 #-九曲jean- https://weibo.com/6850282182/Lj7A2mdAA]]></title>
+        <id>https://t.me/awsl_channel/39562</id>
+        <link href="https://t.me/awsl_channel/39562"/>
+        <updated>2022-03-11T07:09:34.000Z</updated>
+        <summary type="html"><![CDATA[#-九曲jean- https://weibo.com/6850282182/Lj7A2mdAA]]></summary>
+        <author>
+            <name>Awsl - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🖼 #菊子呀_Kikuko https://weibo.com/2471768860/LjcTm3EL3]]></title>
+        <id>https://t.me/awsl_channel/39556</id>
+        <link href="https://t.me/awsl_channel/39556"/>
+        <updated>2022-03-11T07:08:13.000Z</updated>
+        <summary type="html"><![CDATA[#菊子呀_Kikuko https://weibo.com/2471768860/LjcTm3EL3]]></summary>
+        <author>
+            <name>Awsl - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🖼 #一格 https://weibo.com/3127526680/Ljdbz71mu]]></title>
+        <id>https://t.me/awsl_channel/39554</id>
+        <link href="https://t.me/awsl_channel/39554"/>
+        <updated>2022-03-11T07:07:54.000Z</updated>
+        <summary type="html"><![CDATA[#一格 https://weibo.com/3127526680/Ljdbz71mu]]></summary>
+        <author>
+            <name>Awsl - Telegram Channel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🖼 #DeadBarbie https://weibo.com/1995856131/Lj3YoFWPa]]></title>
         <id>https://t.me/awsl_channel/39346</id>
