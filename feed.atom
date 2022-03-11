@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://running-mj.github.io/testrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-11T08:30:55.627Z</updated>
+    <updated>2022-03-11T08:41:11.556Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://running-mj.github.io/testrss/index.html"/>
     <link rel="self" href="https://running-mj.github.io/testrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国驻韩国大使邢海明向韩国当选总统尹锡悦转交习近平主席贺电]]></title>
+        <id>http://world.people.com.cn/n1/2022/0311/c1002-32372865.html</id>
+        <link href="http://world.people.com.cn/n1/2022/0311/c1002-32372865.html"/>
+        <updated>2022-03-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中国驻韩国大使邢海明11日会见韩国当选总统尹锡悦，并转交习近平主席贺电。中国驻韩国大使馆供图
+  人民网首尔3月11日电 （记者马菲）中国驻韩国大使邢海明11日会见韩国当选总统尹锡悦。邢海明向尹锡悦转交习近平主席贺电，双方就中韩关系发展等交换了意见。
+  邢海明转交贺电后表示，中韩两国是密不可分的友好近邻和重要战略合作伙伴。建交以来，在两国元首引领和两国政府、人民共同努力下，中韩关系取得了全方位跨越式发展，给两国人民带来了实实在在的利益，也为促进地区及世界和平稳定与发展繁荣作出了积极贡献。今年是中韩建交30周年，两国关系面临提质升级重要机遇，中方愿同韩方基于相互尊重、平等互利原则继续推动双边各领域交流合作深化发展。相信在两国元首战略引领下，中韩关系将在未来5年、30年取得新的更大发展，更好地造福两国和两国人民。
+  尹锡悦表示，非常感谢习近平主席发来的贺电，期待就职后能早日同习主席会晤。中国是韩国最大贸易合作伙伴，也是全球最有影响力的国家之一，韩方愿同中方就双边和国际地区问题不断深化沟通与合作。韩国国民力量党始终高度重视韩中关系，韩中建交就是在国民力量党前身民主自由党执政时期实现的。希望双方以建交30周年为契机，进一步密切高层往来，加强各领域交流合作，增进国民感情。坚信韩中关系必将取得更大发展，再上新的台阶。]]></summary>
+        <author>
+            <name>人民网</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[驻韩大使向韩当选总统尹锡悦转交习近平主席贺电]]></title>
         <id>http://world.people.com.cn/n1/2022/0311/c1002-32372928.html</id>
