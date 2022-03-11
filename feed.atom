@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://running-mj.github.io/testrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-11T07:11:06.471Z</updated>
+    <updated>2022-03-11T07:28:39.182Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://running-mj.github.io/testrss/index.html"/>
     <link rel="self" href="https://running-mj.github.io/testrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🖼 #贤儿sherry https://weibo.com/1796647451/Ljec84Imq]]></title>
+        <id>https://t.me/awsl_channel/39609</id>
+        <link href="https://t.me/awsl_channel/39609"/>
+        <updated>2022-03-11T07:16:20.000Z</updated>
+        <summary type="html"><![CDATA[#贤儿sherry https://weibo.com/1796647451/Ljec84Imq]]></summary>
+        <author>
+            <name>Awsl - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🖼 #姜生花_ https://weibo.com/3908010153/LjcYQ9bWH]]></title>
+        <id>https://t.me/awsl_channel/39608</id>
+        <link href="https://t.me/awsl_channel/39608"/>
+        <updated>2022-03-11T07:16:02.000Z</updated>
+        <summary type="html"><![CDATA[#姜生花_ https://weibo.com/3908010153/LjcYQ9bWH]]></summary>
+        <author>
+            <name>Awsl - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🖼 #_Suweit苏碧浪 https://weibo.com/1239289041/Lj4Hv2fNK]]></title>
+        <id>https://t.me/awsl_channel/39604</id>
+        <link href="https://t.me/awsl_channel/39604"/>
+        <updated>2022-03-11T07:15:50.000Z</updated>
+        <summary type="html"><![CDATA[#_Suweit苏碧浪 https://weibo.com/1239289041/Lj4Hv2fNK]]></summary>
+        <author>
+            <name>Awsl - Telegram Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🖼 #_Suweit苏碧浪 https://weibo.com/1239289041/Lj4Hv2fNK]]></title>
+        <id>https://t.me/awsl_channel/39595</id>
+        <link href="https://t.me/awsl_channel/39595"/>
+        <updated>2022-03-11T07:14:36.000Z</updated>
+        <summary type="html"><![CDATA[#_Suweit苏碧浪 https://weibo.com/1239289041/Lj4Hv2fNK]]></summary>
+        <author>
+            <name>Awsl - Telegram Channel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🖼 #宁宁子同学 https://weibo.com/2005157500/Ljap9D4hh]]></title>
         <id>https://t.me/awsl_channel/39572</id>
